@@ -1,0 +1,16 @@
+.settings/
+classes/
+target/
+.project
+*.class
+/idea/ide
+.idea
+out/
+*,ipr
+*.iml
+*.iws
+*.log
+*.cache
+*.patch
+*.war
+git
