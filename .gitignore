@@ -13,6 +13,7 @@ out/
 *.cache
 *.patch
 *.war
+*.sql
 
 
 
