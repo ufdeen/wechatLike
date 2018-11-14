@@ -1,4 +1,4 @@
-package club.ufdeen;
+package club.ufdeen.helloNetty;
 
 import io.netty.channel.ChannelInitializer;
 import io.netty.channel.ChannelPipeline;

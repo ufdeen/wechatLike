@@ -1,4 +1,4 @@
-package club.ufdeen;
+package club.ufdeen.helloNetty;
 
 import io.netty.buffer.ByteBuf;
 import io.netty.buffer.Unpooled;
